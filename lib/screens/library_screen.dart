@@ -14,12 +14,18 @@ class _LibraryScreenState extends State<LibraryScreen> {
   final TextEditingController _searchController = TextEditingController();
   List<Map<String, dynamic>> allDiseases = [];
   String _searchQuery = "";
-  Set<int> _expandedIndexes = {}; // Expanded card indexes
+  Set<int> _expandedIndexes = {}; // Expanded card indices
 
   @override
   void initState() {
     super.initState();
     _loadDiseaseData();
+  }
+
+  @override
+  void dispose() {
+    _searchController.dispose();
+    super.dispose();
   }
 
   Future<void> _loadDiseaseData() async {
@@ -64,8 +70,7 @@ class _LibraryScreenState extends State<LibraryScreen> {
               child: TextField(
                 controller: _searchController,
                 decoration: InputDecoration(
-                  hintText: 'Hastalık ara...'
-                      .replaceAll('ara...', 'isim girin'),
+                  hintText: 'Hastalık ismi girin...',
                   prefixIcon: const Icon(Icons.search),
                   border: OutlineInputBorder(borderRadius: BorderRadius.circular(8)),
                 ),

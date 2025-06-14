@@ -74,6 +74,12 @@ class _BertChatScreenState extends State<BertChatScreen> {
   }
 
   @override
+  void dispose() {
+    _controller.dispose();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text("BERT Chat Teşhis Asistanı")),
