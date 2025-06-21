@@ -4,6 +4,7 @@ import 'package:hastalik_analiz/screens/home_screen.dart';
 import 'package:hastalik_analiz/screens/tomato_analysis_screen.dart';
 import 'package:hastalik_analiz/screens/library_screen.dart';
 import 'package:hastalik_analiz/screens/bert_chat_screen.dart';
+import 'package:hastalik_analiz/screens/welcome_screen.dart'; // 👈 yeni ekran import edildi
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -18,8 +19,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Hastalık Analiz',
       debugShowCheckedModeBanner: false,
-      theme: AppTheme.lightTheme, // 🔄 Temayı uyguluyoruz
-      home: const MainNavigation(),
+      theme: AppTheme.lightTheme,
+      home: const WelcomeScreen(), // 👈 başlangıçta WelcomeScreen açılır
     );
   }
 }
@@ -45,23 +46,6 @@ class _MainNavigationState extends State<MainNavigation> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: _screens[_selectedIndex],
-      bottomNavigationBar: NavigationBar(
-        height: 65,
-        selectedIndex: _selectedIndex,
-        indicatorColor: Colors.green.withOpacity(0.1),
-        surfaceTintColor: Colors.white,
-        onDestinationSelected: (index) {
-          setState(() {
-            _selectedIndex = index;
-          });
-        },
-        destinations: const [
-          NavigationDestination(icon: Icon(Icons.home), label: 'Ana Sayfa'),
-          NavigationDestination(icon: Icon(Icons.camera_alt), label: 'Analiz'),
-          NavigationDestination(icon: Icon(Icons.library_books), label: 'Kütüphane'),
-          NavigationDestination(icon: Icon(Icons.chat), label: 'Sohbet'),
-        ],
-      ),
     );
   }
 }

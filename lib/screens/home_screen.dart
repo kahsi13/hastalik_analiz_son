@@ -2,51 +2,69 @@ import 'package:flutter/material.dart';
 import 'package:hastalik_analiz/screens/tomato_analysis_screen.dart';
 import 'package:hastalik_analiz/screens/bert_chat_screen.dart';
 import 'package:hastalik_analiz/screens/library_screen.dart';
+import 'package:hastalik_analiz/screens/welcome_screen.dart'; // 👈 WelcomeScreen eklendi
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Domates Teşhis Paneli'),
-      ),
-      body: Padding(
-        padding: const EdgeInsets.all(24),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            _buildMenuCard(
-              context,
-              icon: Icons.camera_alt,
-              label: '🍅 Domates Analiz',
-              onTap: () => Navigator.push(
-                context,
-                MaterialPageRoute(builder: (_) => const TomatoAnalysisScreen()),
-              ),
+    return WillPopScope(
+      onWillPop: () async {
+        Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(builder: (_) => const WelcomeScreen()), // 👈 Geri tuşuna basınca welcome’a döner
+        );
+        return false; // Geri işlemini durduruyoruz (push yerine replace yaptık)
+      },
+      child: Scaffold(
+        appBar: AppBar(
+          title: const Text('Domates Teşhis Paneli'),
+        ),
+        body: Container(
+          decoration: const BoxDecoration(
+            image: DecorationImage(
+              image: AssetImage("assets/images/wallpaper/arka_ana.jpg"),
+              fit: BoxFit.cover,
             ),
-            const SizedBox(height: 16),
-            _buildMenuCard(
-              context,
-              icon: Icons.chat,
-              label: '💬 BERT Chat Teşhis',
-              onTap: () => Navigator.push(
-                context,
-                MaterialPageRoute(builder: (_) => const BertChatScreen()),
-              ),
+          ),
+          child: Padding(
+            padding: const EdgeInsets.all(24),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                _buildMenuCard(
+                  context,
+                  icon: Icons.camera_alt,
+                  label: '🍅 Domates Analiz',
+                  onTap: () => Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (_) => const TomatoAnalysisScreen()),
+                  ),
+                ),
+                const SizedBox(height: 16),
+                _buildMenuCard(
+                  context,
+                  icon: Icons.chat,
+                  label: '💬 BERT Chat Teşhis',
+                  onTap: () => Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (_) => const BertChatScreen()),
+                  ),
+                ),
+                const SizedBox(height: 16),
+                _buildMenuCard(
+                  context,
+                  icon: Icons.menu_book,
+                  label: '📚 Hastalık Kütüphanesi',
+                  onTap: () => Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (_) => const LibraryScreen()),
+                  ),
+                ),
+              ],
             ),
-            const SizedBox(height: 16),
-            _buildMenuCard(
-              context,
-              icon: Icons.menu_book,
-              label: '📚 Hastalık Kütüphanesi',
-              onTap: () => Navigator.push(
-                context,
-                MaterialPageRoute(builder: (_) => const LibraryScreen()),
-              ),
-            ),
-          ],
+          ),
         ),
       ),
     );

@@ -24,6 +24,10 @@ dependencies:
   path: ^1.9.0
   fl_chart: ^0.63.0
 
+  # 📌 Eklenenler:
+  flutter_markdown: ^0.6.14
+  share_plus: ^7.0.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -34,8 +38,23 @@ flutter:
 
   assets:
     - assets/
+    - assets/images/
+    - assets/images/Bacterial_spot/
+    - assets/images/Early_blight/
+    - assets/images/Healthy/
+    - assets/images/Late_blight/
+    - assets/images/Leaf_Mold/
+    - assets/images/Septoria_leaf_spot/
+    - assets/images/Spider_mites_Two_spotted_spider_mite/
+    - assets/images/Target_Spot/
+    - assets/images/Tomato_mosaic_virus/
+    - assets/images/Tomato_Yellow_Leaf_Curl_Virus/
     - assets/data/
-    - assets/data/domates_hastaliklari_detayli.json
+    - assets/data/domates_hastaliklari_professional_final.json
     - assets/data/labels_with_description_v2.json
     - assets/data/domates_hastaliklari_genisletilmis.json
-    - assets/data/labels_with_description_v2.json
+    - assets/images/wallpaper/arka_ana.jpg
+    - assets/images/wallpaper/arka_analiz.jpg
+    - assets/images/wallpaper/arka_bert.jpg
+    - assets/images/wallpaper/arka_gecmis.jpg
+    - assets/images/wallpaper/arka_kutuphane.jpg

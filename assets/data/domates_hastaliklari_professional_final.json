@@ -1,0 +1,1142 @@
+[
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Geç Yaprak Yanıklığı (Phytophthora infestans)",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Geç Yaprak Yanıklığı (Phytophthora infestans) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Metalaxyl-M"
+    ],
+    "recommended_brand": [
+      "Ridomil Gold Trick"
+    ],
+    "usage_instructions": [
+      "%0.2 solüsyon ile yaprak spreyi"
+    ],
+    "application_timing": [
+      "Semptom göründüğünde, ardından 7-10 günde bir"
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Fusarium Solgunluğu",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Fusarium Solgunluğu isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "recommended_brand": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "usage_instructions": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "application_timing": [
+      "Kimyasal tedavi gerekmemektedir."
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Verticillium Solgunluğu",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Verticillium Solgunluğu isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "recommended_brand": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "usage_instructions": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "application_timing": [
+      "Kimyasal tedavi gerekmemektedir."
+    ]
+  },
+  {
+    "category": "Fizyolojik Bozukluklar",
+    "name": "Antraknoz (Colletotrichum spp.)",
+    "symptoms": [
+      "Meyvede çatlama ve soyulma",
+      "Yaprak kenarında yanık belirtileri",
+      "Bitki uzunluğunda anormal gelişim"
+    ],
+    "cause": "Antraknoz (Colletotrichum spp.) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Dengesiz su temini (dönemsel susuzluk)",
+      "Aşırı gübreleme ve tuz birikimi",
+      "Sıcaklık stresi ve güneş yanıkları"
+    ],
+    "effects": [
+      "Pazarlanabilir ürün oranında düşüş",
+      "Depolama ve nakliye kayıpları",
+      "Bitki fizyolojisinde stres belirtileri"
+    ],
+    "treatment": [
+      "Düzenli ve dengeli sulama programı",
+      "Gölgeleme ve nem kontrolü",
+      "Toprak pH ve tuz analizine dayalı gübreleme"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Karbendazim"
+    ],
+    "recommended_brand": [
+      "Bavistin WP"
+    ],
+    "usage_instructions": [
+      "%0.1 solüsyon ile yaprak ve meyve spreyi"
+    ],
+    "application_timing": [
+      "İlk semptomlarda ve 10 günde bir"
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Sclerotinia Gövde Çürüklüğü",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Sclerotinia Gövde Çürüklüğü isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Boskalid"
+    ],
+    "recommended_brand": [
+      "Endura"
+    ],
+    "usage_instructions": [
+      "%0.15 solüsyon ile gövde spreyi"
+    ],
+    "application_timing": [
+      "Düşük nem dönemlerinde koruyucu uygulama"
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Septoria Yaprak Lekesi",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Septoria Yaprak Lekesi isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Kuproksat"
+    ],
+    "recommended_brand": [
+      "Curzate M-8"
+    ],
+    "usage_instructions": [
+      "%0.2 solüsyon ile yaprak spreyi"
+    ],
+    "application_timing": [
+      "Yaprak lekesi başlangıcında haftada bir"
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Cladosporium Yaprak Küfü",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Cladosporium Yaprak Küfü isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Mankozeb"
+    ],
+    "recommended_brand": [
+      "Dithane M-45"
+    ],
+    "usage_instructions": [
+      "%0.2 solüsyon ile yaprak spreyi"
+    ],
+    "application_timing": [
+      "Nemli koşullarda 7 günde bir"
+    ]
+  },
+  {
+    "category": "Fizyolojik Bozukluklar",
+    "name": "Botrytis (Gri Küf)",
+    "symptoms": [
+      "Meyvede çatlama ve soyulma",
+      "Yaprak kenarında yanık belirtileri",
+      "Bitki uzunluğunda anormal gelişim"
+    ],
+    "cause": "Botrytis (Gri Küf) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Dengesiz su temini (dönemsel susuzluk)",
+      "Aşırı gübreleme ve tuz birikimi",
+      "Sıcaklık stresi ve güneş yanıkları"
+    ],
+    "effects": [
+      "Pazarlanabilir ürün oranında düşüş",
+      "Depolama ve nakliye kayıpları",
+      "Bitki fizyolojisinde stres belirtileri"
+    ],
+    "treatment": [
+      "Düzenli ve dengeli sulama programı",
+      "Gölgeleme ve nem kontrolü",
+      "Toprak pH ve tuz analizine dayalı gübreleme"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Iprodione"
+    ],
+    "recommended_brand": [
+      "Rovral"
+    ],
+    "usage_instructions": [
+      "%0.1 solüsyon ile yaprak spreyi"
+    ],
+    "application_timing": [
+      "Çiçek ve meyve döneminde 10 günde bir"
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Rhizoctonia Kök Çürüklüğü",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Rhizoctonia Kök Çürüklüğü isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Benomyl"
+    ],
+    "recommended_brand": [
+      "Benlate"
+    ],
+    "usage_instructions": [
+      "Toprak uygulaması, 200 g/da"
+    ],
+    "application_timing": [
+      "Dikim öncesi toprak işlemede"
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Pythium Kök Çürüklüğü",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Pythium Kök Çürüklüğü isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Propamocarb"
+    ],
+    "recommended_brand": [
+      "Previcur N"
+    ],
+    "usage_instructions": [
+      "Toprak drenej uygulaması"
+    ],
+    "application_timing": [
+      "Fide dikiminden önce"
+    ]
+  },
+  {
+    "category": "Bakteriyel Hastalıklar",
+    "name": "Bakteriyel Leke (Xanthomonas spp.)",
+    "symptoms": [
+      "Yapraklarda su damlası şeklinde lekeler",
+      "Yaprak kenarlarında sararma",
+      "Solgunluk ve yaprak dökümü"
+    ],
+    "cause": "Bakteriyel Leke (Xanthomonas spp.) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Islak yaprak yüzeyi ve yüksek nem",
+      "Açık yaralı tarım aletleri ile bulaş",
+      "Enfekte fidelerin kullanımı"
+    ],
+    "effects": [
+      "Verim kaybı ve kalite düşüşü",
+      "Hızlı epifit yayılım",
+      "Bitki ıslahı maliyetlerinde artış"
+    ],
+    "treatment": [
+      "Bakır bazlı biyofungisitler (Cu-OH, CuSO4)",
+      "Enfekte dokuların çıkarılması ve imhası",
+      "Ekipman sterilizasyonu"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Streptomisin Sülfat"
+    ],
+    "recommended_brand": [
+      "Agrimycin 100"
+    ],
+    "usage_instructions": [
+      "%0.1 solüsyon ile yaprak spreyi"
+    ],
+    "application_timing": [
+      "Semptom başlangıcında ve 7 günde bir"
+    ]
+  },
+  {
+    "category": "Bakteriyel Hastalıklar",
+    "name": "Bakteriyel Kanser (Clavibacter michiganensis)",
+    "symptoms": [
+      "Yapraklarda su damlası şeklinde lekeler",
+      "Yaprak kenarlarında sararma",
+      "Solgunluk ve yaprak dökümü"
+    ],
+    "cause": "Bakteriyel Kanser (Clavibacter michiganensis) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Islak yaprak yüzeyi ve yüksek nem",
+      "Açık yaralı tarım aletleri ile bulaş",
+      "Enfekte fidelerin kullanımı"
+    ],
+    "effects": [
+      "Verim kaybı ve kalite düşüşü",
+      "Hızlı epifit yayılım",
+      "Bitki ıslahı maliyetlerinde artış"
+    ],
+    "treatment": [
+      "Bakır bazlı biyofungisitler (Cu-OH, CuSO4)",
+      "Enfekte dokuların çıkarılması ve imhası",
+      "Ekipman sterilizasyonu"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Bakır Hidroksit"
+    ],
+    "recommended_brand": [
+      "Kocide 2000"
+    ],
+    "usage_instructions": [
+      "%0.3 solüsyon ile yaprak spreyi"
+    ],
+    "application_timing": [
+      "Semptom başlangıcında"
+    ]
+  },
+  {
+    "category": "Bakteriyel Hastalıklar",
+    "name": "Bakteriyel Solgunluk (Ralstonia solanacearum)",
+    "symptoms": [
+      "Yapraklarda su damlası şeklinde lekeler",
+      "Yaprak kenarlarında sararma",
+      "Solgunluk ve yaprak dökümü"
+    ],
+    "cause": "Bakteriyel Solgunluk (Ralstonia solanacearum) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Islak yaprak yüzeyi ve yüksek nem",
+      "Açık yaralı tarım aletleri ile bulaş",
+      "Enfekte fidelerin kullanımı"
+    ],
+    "effects": [
+      "Verim kaybı ve kalite düşüşü",
+      "Hızlı epifit yayılım",
+      "Bitki ıslahı maliyetlerinde artış"
+    ],
+    "treatment": [
+      "Bakır bazlı biyofungisitler (Cu-OH, CuSO4)",
+      "Enfekte dokuların çıkarılması ve imhası",
+      "Ekipman sterilizasyonu"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Bakır Sülfat"
+    ],
+    "recommended_brand": [
+      "Champion WP"
+    ],
+    "usage_instructions": [
+      "Toprak drenej uygulaması, 1 kg/da"
+    ],
+    "application_timing": [
+      "Fide dikiminden önce"
+    ]
+  },
+  {
+    "category": "Viral Hastalıklar",
+    "name": "Domates Mozaik Virüsü (ToMV)",
+    "symptoms": [
+      "Yapraklarda mozaik desen ve çarpıklık",
+      "Bitki cücelik ve yaprak sararması",
+      "Meyvede şekil bozuklukları"
+    ],
+    "cause": "Domates Mozaik Virüsü (ToMV) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Vektör (whitefly, thrips) aktivitesi",
+      "Enfekte tohum ve fideler",
+      "Yakın bitki teması"
+    ],
+    "effects": [
+      "Büyüme geriliği ve çiçek dökümü",
+      "Meyve veriminde ciddi azalma",
+      "Bitki direncinde bozulma"
+    ],
+    "treatment": [
+      "Vektör kontrolü (insektisit, feromon tuzak)",
+      "Temiz sertifikalı tohum kullanımı",
+      "Kültürel önlemler ve karantina"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Tohum dezenfektanı"
+    ],
+    "recommended_brand": [
+      "BioSeed Tohum Dezenfektanı"
+    ],
+    "usage_instructions": [
+      "Tohumları %1’lik sodyum hipoklorit solüsyonunda 10 dakika bekletin"
+    ],
+    "application_timing": [
+      "Ekimden 24 saat önce tohum sterilizasyonu yapın"
+    ]
+  },
+  {
+    "category": "Viral Hastalıklar",
+    "name": "Domates Lekeli Solgunluk Virüsü (TSWV)",
+    "symptoms": [
+      "Yapraklarda mozaik desen ve çarpıklık",
+      "Bitki cücelik ve yaprak sararması",
+      "Meyvede şekil bozuklukları"
+    ],
+    "cause": "Domates Lekeli Solgunluk Virüsü (TSWV) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Vektör (whitefly, thrips) aktivitesi",
+      "Enfekte tohum ve fideler",
+      "Yakın bitki teması"
+    ],
+    "effects": [
+      "Büyüme geriliği ve çiçek dökümü",
+      "Meyve veriminde ciddi azalma",
+      "Bitki direncinde bozulma"
+    ],
+    "treatment": [
+      "Vektör kontrolü (insektisit, feromon tuzak)",
+      "Temiz sertifikalı tohum kullanımı",
+      "Kültürel önlemler ve karantina"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Spinosad"
+    ],
+    "recommended_brand": [
+      "Tracer 48 SC"
+    ],
+    "usage_instructions": [
+      "Yapraklara %0,03’lük solüsyonla sprey uygulayın"
+    ],
+    "application_timing": [
+      "Thrips popülasyonu tespitinde ilk uygulama, ardından 14 günde bir"
+    ]
+  },
+  {
+    "category": "Viral Hastalıklar",
+    "name": "Tomato Chlorosis Virus (ToCV)",
+    "symptoms": [
+      "Yapraklarda mozaik desen ve çarpıklık",
+      "Bitki cücelik ve yaprak sararması",
+      "Meyvede şekil bozuklukları"
+    ],
+    "cause": "Tomato Chlorosis Virus (ToCV) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Vektör (whitefly, thrips) aktivitesi",
+      "Enfekte tohum ve fideler",
+      "Yakın bitki teması"
+    ],
+    "effects": [
+      "Büyüme geriliği ve çiçek dökümü",
+      "Meyve veriminde ciddi azalma",
+      "Bitki direncinde bozulma"
+    ],
+    "treatment": [
+      "Vektör kontrolü (insektisit, feromon tuzak)",
+      "Temiz sertifikalı tohum kullanımı",
+      "Kültürel önlemler ve karantina"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Imidacloprid"
+    ],
+    "recommended_brand": [
+      "Confidor 200 SL"
+    ],
+    "usage_instructions": [
+      "Toprak drenajına %0,05’lik solüsyonlu sulama yapın"
+    ],
+    "application_timing": [
+      "Fide çıkışından 3 gün önce ve fidelerin çıkış döneminde"
+    ]
+  },
+  {
+    "category": "Viral Hastalıklar",
+    "name": "Domates Çalılaşma Virüsü",
+    "symptoms": [
+      "Yapraklarda mozaik desen ve çarpıklık",
+      "Bitki cücelik ve yaprak sararması",
+      "Meyvede şekil bozuklukları"
+    ],
+    "cause": "Domates Çalılaşma Virüsü isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Vektör (whitefly, thrips) aktivitesi",
+      "Enfekte tohum ve fideler",
+      "Yakın bitki teması"
+    ],
+    "effects": [
+      "Büyüme geriliği ve çiçek dökümü",
+      "Meyve veriminde ciddi azalma",
+      "Bitki direncinde bozulma"
+    ],
+    "treatment": [
+      "Vektör kontrolü (insektisit, feromon tuzak)",
+      "Temiz sertifikalı tohum kullanımı",
+      "Kültürel önlemler ve karantina"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Abamektin"
+    ],
+    "recommended_brand": [
+      "Vertimec 18 EC"
+    ],
+    "usage_instructions": [
+      "Yaprak spreyiyle %0,01 solüsyon uygulayın"
+    ],
+    "application_timing": [
+      "Yaz aylarında haftada bir"
+    ]
+  },
+  {
+    "category": "Zararlı Kaynaklı (Biyotik)",
+    "name": "Kırmızı Örümcek (Tetranychus urticae)",
+    "symptoms": [
+      "Yaprakta ince ağ benzeri örüntü",
+      "Alt yapraklarda sararma ve dökülme",
+      "Bitki yüzeyinde ağ dokusu"
+    ],
+    "cause": "Kırmızı Örümcek (Tetranychus urticae) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek zararlı popülasyonu",
+      "Doğal düşman eksikliği",
+      "Sık ilaçlamadan kaynaklı direnç"
+    ],
+    "effects": [
+      "Fotosentezde azalma",
+      "Strese bağlı büyüme geriliği",
+      "Bitki zayıflığında artış"
+    ],
+    "treatment": [
+      "Akarisit/insektisit uygulamaları (abamektin, imidacloprid)",
+      "Biyolojik kontrol ajanları",
+      "Çiğ azaltıcı ve havalandırma önlemleri"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Abamektin"
+    ],
+    "recommended_brand": [
+      "Vertimec"
+    ],
+    "usage_instructions": [
+      "%0.01 solüsyon ile yaprak spreyi"
+    ],
+    "application_timing": [
+      "Sabah erken saatlerde"
+    ]
+  },
+  {
+    "category": "Zararlı Kaynaklı (Biyotik)",
+    "name": "Beyaz Sinek (Bemisia tabaci)",
+    "symptoms": [
+      "Yaprakta ince ağ benzeri örüntü",
+      "Alt yapraklarda sararma ve dökülme",
+      "Bitki yüzeyinde ağ dokusu"
+    ],
+    "cause": "Beyaz Sinek (Bemisia tabaci) isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek zararlı popülasyonu",
+      "Doğal düşman eksikliği",
+      "Sık ilaçlamadan kaynaklı direnç"
+    ],
+    "effects": [
+      "Fotosentezde azalma",
+      "Strese bağlı büyüme geriliği",
+      "Bitki zayıflığında artış"
+    ],
+    "treatment": [
+      "Akarisit/insektisit uygulamaları (abamektin, imidacloprid)",
+      "Biyolojik kontrol ajanları",
+      "Çiğ azaltıcı ve havalandırma önlemleri"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Imidacloprid"
+    ],
+    "recommended_brand": [
+      "Confidor"
+    ],
+    "usage_instructions": [
+      "Toprak sulama drenej uygulaması"
+    ],
+    "application_timing": [
+      "Dikim öncesi ve çıkış döneminde"
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Güneş Yanıklığı",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Güneş Yanıklığı isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "recommended_brand": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "usage_instructions": [
+      "Gölgeleme filesi kullanın"
+    ],
+    "application_timing": [
+      "Gün ortasındaki en yoğun ışık saatlerinde"
+    ]
+  },
+  {
+    "category": "Fizyolojik Bozukluklar",
+    "name": "Besin Noksanlıkları",
+    "symptoms": [
+      "Meyvede çatlama ve soyulma",
+      "Yaprak kenarında yanık belirtileri",
+      "Bitki uzunluğunda anormal gelişim"
+    ],
+    "cause": "Besin Noksanlıkları isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Dengesiz su temini (dönemsel susuzluk)",
+      "Aşırı gübreleme ve tuz birikimi",
+      "Sıcaklık stresi ve güneş yanıkları"
+    ],
+    "effects": [
+      "Pazarlanabilir ürün oranında düşüş",
+      "Depolama ve nakliye kayıpları",
+      "Bitki fizyolojisinde stres belirtileri"
+    ],
+    "treatment": [
+      "Düzenli ve dengeli sulama programı",
+      "Gölgeleme ve nem kontrolü",
+      "Toprak pH ve tuz analizine dayalı gübreleme"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Kompleks gübre"
+    ],
+    "recommended_brand": [
+      "Yara Gübreleri"
+    ],
+    "usage_instructions": [
+      "Yapraktan gübre spreyi yapın"
+    ],
+    "application_timing": [
+      "Eksiklik belirtisi görüldüğünde"
+    ]
+  },
+  {
+    "category": "Fizyolojik Bozukluklar",
+    "name": "Meyve Çatlaması",
+    "symptoms": [
+      "Meyvede çatlama ve soyulma",
+      "Yaprak kenarında yanık belirtileri",
+      "Bitki uzunluğunda anormal gelişim"
+    ],
+    "cause": "Meyve Çatlaması isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Dengesiz su temini (dönemsel susuzluk)",
+      "Aşırı gübreleme ve tuz birikimi",
+      "Sıcaklık stresi ve güneş yanıkları"
+    ],
+    "effects": [
+      "Pazarlanabilir ürün oranında düşüş",
+      "Depolama ve nakliye kayıpları",
+      "Bitki fizyolojisinde stres belirtileri"
+    ],
+    "treatment": [
+      "Düzenli ve dengeli sulama programı",
+      "Gölgeleme ve nem kontrolü",
+      "Toprak pH ve tuz analizine dayalı gübreleme"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "recommended_brand": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "usage_instructions": [
+      "Sabah erken saatlerde düzenli sulama yapın"
+    ],
+    "application_timing": [
+      "Yaz sıcaklarında haftada 3 kez sabah sulama yapın"
+    ]
+  },
+  {
+    "category": "Fizyolojik Bozukluklar",
+    "name": "Aşırı Sulamaya Bağlı Bozulmalar",
+    "symptoms": [
+      "Meyvede çatlama ve soyulma",
+      "Yaprak kenarında yanık belirtileri",
+      "Bitki uzunluğunda anormal gelişim"
+    ],
+    "cause": "Aşırı Sulamaya Bağlı Bozulmalar isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Dengesiz su temini (dönemsel susuzluk)",
+      "Aşırı gübreleme ve tuz birikimi",
+      "Sıcaklık stresi ve güneş yanıkları"
+    ],
+    "effects": [
+      "Pazarlanabilir ürün oranında düşüş",
+      "Depolama ve nakliye kayıpları",
+      "Bitki fizyolojisinde stres belirtileri"
+    ],
+    "treatment": [
+      "Düzenli ve dengeli sulama programı",
+      "Gölgeleme ve nem kontrolü",
+      "Toprak pH ve tuz analizine dayalı gübreleme"
+    ],
+    "period": "Sezona bağlı olarak gelişim dönemi boyunca görülebilir",
+    "recommended_drug": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "recommended_brand": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "usage_instructions": [
+      "Toprağın drenajını iyileştirin; fazla suyun tahliyesi için kanallar açın"
+    ],
+    "application_timing": [
+      "Her sulama sonrası toprak nemini ölçerek, gerekirse 2–3 gün aralıklarla drenaj kontrolü yapın"
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Erken Yaprak Yanıklığı (Alternaria solani)",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Alternaria solani isimli etmen tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sıcak ve nemli dönemlerde daha yaygındır",
+    "recommended_drug": [
+      "Mankozeb"
+    ],
+    "recommended_brand": [
+      "Dithane M-45"
+    ],
+    "usage_instructions": [
+      "%0.25 solüsyon ile yaprak spreyi"
+    ],
+    "application_timing": [
+      "Yağışlı dönemlerde semptom görünür görünmez haftada bir"
+    ]
+  },
+  {
+    "category": "Viral Hastalıklar",
+    "name": "Domates Sarı Yaprak Kıvırcıklık Virüsü (TYLCV)",
+    "symptoms": [
+      "Yapraklarda mozaik desen ve çarpıklık",
+      "Bitki cücelik ve yaprak sararması",
+      "Meyvede şekil bozuklukları"
+    ],
+    "cause": "Beyaz sinek (Bemisia tabaci) ile taşınan viral hastalık.",
+    "reasons": [
+      "Vektör (whitefly, thrips) aktivitesi",
+      "Enfekte tohum ve fideler",
+      "Yakın bitki teması"
+    ],
+    "effects": [
+      "Büyüme geriliği ve çiçek dökümü",
+      "Meyve veriminde ciddi azalma",
+      "Bitki direncinde bozulma"
+    ],
+    "treatment": [
+      "Vektör kontrolü (insektisit, feromon tuzak)",
+      "Temiz sertifikalı tohum kullanımı",
+      "Kültürel önlemler ve karantina"
+    ],
+    "period": "Yüksek sıcaklık ve yoğun sinek varlığında yaygındır",
+    "recommended_drug": [
+      "Thiamethoxam"
+    ],
+    "recommended_brand": [
+      "Actara 25 WG"
+    ],
+    "usage_instructions": [
+      "Yapraklara %0,03 solüsyon sprey uygulaması yapın"
+    ],
+    "application_timing": [
+      "Beyazsinek popülasyonu tespitinde, ardından 14 günde bir"
+    ]
+  },
+  {
+    "category": "Viral Hastalıklar",
+    "name": "Domates Halkalı Leke Virüsü",
+    "symptoms": [
+      "Yapraklarda mozaik desen ve çarpıklık",
+      "Bitki cücelik ve yaprak sararması",
+      "Meyvede şekil bozuklukları"
+    ],
+    "cause": "Mekanik yollarla veya zararlılarla bulaşan viral hastalık.",
+    "reasons": [
+      "Vektör (whitefly, thrips) aktivitesi",
+      "Enfekte tohum ve fideler",
+      "Yakın bitki teması"
+    ],
+    "effects": [
+      "Büyüme geriliği ve çiçek dökümü",
+      "Meyve veriminde ciddi azalma",
+      "Bitki direncinde bozulma"
+    ],
+    "treatment": [
+      "Vektör kontrolü (insektisit, feromon tuzak)",
+      "Temiz sertifikalı tohum kullanımı",
+      "Kültürel önlemler ve karantina"
+    ],
+    "period": "Yılın her döneminde görülebilir, vektöre bağlı yayılır",
+    "recommended_drug": [
+      "Imidacloprid"
+    ],
+    "recommended_brand": [
+      "Confidor 200 SL"
+    ],
+    "usage_instructions": [
+      "Yaprak spreyiyle %0,04 solüsyon uygulayın"
+    ],
+    "application_timing": [
+      "Semptom başlangıcında tek sefer uygulama yapın"
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Alternaria Meyve Lekesi",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Alternaria alternata isimli mantar tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Hasat öncesi ve sonrası dönemde yaygındır",
+    "recommended_drug": [
+      "Mankozeb"
+    ],
+    "recommended_brand": [
+      "Dithane M-45"
+    ],
+    "usage_instructions": [
+      "%0.25 solüsyon ile meyve spreyi"
+    ],
+    "application_timing": [
+      "Erken meyve döneminde ve 2 haftada bir"
+    ]
+  },
+  {
+    "category": "Mantar Hastalıkları",
+    "name": "Külleme (Leveillula taurica)",
+    "symptoms": [
+      "Yaprak ve meyvelerde nekrotik lekeler",
+      "Alt yapraklarda su çekimleri",
+      "Genç yapraklarda sararma"
+    ],
+    "cause": "Leveillula taurica mantarı tarafından oluşturulan hastalık.",
+    "reasons": [
+      "Yüksek nem ve yoğun çiy birikimi",
+      "Sık dikim ve yetersiz havalandırma",
+      "Dengesiz sulama uygulamaları"
+    ],
+    "effects": [
+      "Fotosentez aktivitesinde belirgin azalma",
+      "Ürün kaybı ve kalite düşüşü",
+      "Bitki dayanıklılığında zayıflama"
+    ],
+    "treatment": [
+      "Fungisit uygulamaları (metalaxyl, boskalid vb.)",
+      "Tarımsal hijyen ve enfekte bitkilerin imhası",
+      "Hava sirkülasyonunu artıracak budama"
+    ],
+    "period": "Sıcak ve kuru iklimlerde görülür",
+    "recommended_drug": [
+      "Triadimefon"
+    ],
+    "recommended_brand": [
+      "Bayleton"
+    ],
+    "usage_instructions": [
+      "%0.1 solüsyon ile yaprak spreyi"
+    ],
+    "application_timing": [
+      "İlk beyaz toz belirtisinde"
+    ]
+  },
+  {
+    "category": "Fitoplazma Hastalıkları",
+    "name": "Domates Fitoplazma (Cüceleşme) Hastalığı",
+    "symptoms": [
+      "Bitki cücelik ve yaprak sararması",
+      "Çiçeksizlik ve meyve tutmama",
+      "İnce ve uzamış gövde"
+    ],
+    "cause": "Böcekler aracılığıyla taşınan fitoplazma etkenleri.",
+    "reasons": [
+      "Böcek vektör (ciron, yaprak biti)",
+      "Enfekte tohum veya toprak",
+      "Uygun olmayan kültürel uygulamalar"
+    ],
+    "effects": [
+      "Üretim alanının tamamen verimsizleşmesi",
+      "Bitki ömründe kısalma",
+      "Yüksek ekonomik kayıp"
+    ],
+    "treatment": [
+      "Vektör kontrolü ve izolasyon",
+      "Dayanıklı varyetelerin ekimi",
+      "Dikim öncesi tohum dezenfeksiyonu"
+    ],
+    "period": "Yaz aylarında vektör yoğunluğuna bağlı artar",
+    "recommended_drug": [
+      "Kimyasal tedavi gerekmemektedir."
+    ],
+    "recommended_brand": [
+      "Kültürel kontrol önerilir"
+    ],
+    "usage_instructions": [
+      "Vektör kontrolü ve izolasyon önlemleri uygulayın"
+    ],
+    "application_timing": [
+      "Vektör yoğunluğunda ilk uygulama"
+    ]
+  },
+  {
+    "category": "Viral Hastalıklar",
+    "name": "Tomato Brown Rugose Fruit Virus (ToBRFV)",
+    "symptoms": [
+      "Yapraklarda mozaik desen ve çarpıklık",
+      "Bitki cücelik ve yaprak sararması",
+      "Meyvede şekil bozuklukları"
+    ],
+    "cause": "Yeni çıkan, oldukça bulaşıcı bir virüs.",
+    "reasons": [
+      "Vektör (whitefly, thrips) aktivitesi",
+      "Enfekte tohum ve fideler",
+      "Yakın bitki teması"
+    ],
+    "effects": [
+      "Büyüme geriliği ve çiçek dökümü",
+      "Meyve veriminde ciddi azalma",
+      "Bitki direncinde bozulma"
+    ],
+    "treatment": [
+      "Vektör kontrolü (insektisit, feromon tuzak)",
+      "Temiz sertifikalı tohum kullanımı",
+      "Kültürel önlemler ve karantina"
+    ],
+    "period": "Seralarda ve yoğun üretimde çok hızlı yayılır",
+    "recommended_drug": [
+      "Kültürel kontrol önerilir"
+    ],
+    "recommended_brand": [
+      "Kültürel önlem"
+    ],
+    "usage_instructions": [
+      "Enfekte meyveleri derhal toplayıp derin gömerek veya imha edin"
+    ],
+    "application_timing": [
+      "Tespit edildiğinde hemen"
+    ]
+  }
+]
