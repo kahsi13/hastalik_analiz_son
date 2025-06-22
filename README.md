@@ -118,3 +118,9 @@ hastalik_analiz/
 ## ✨ Teşekkür
 
 Bu proje boyunca yapay zekayı gerçek dünyada kullanmanın tüm zorluklarını ve güzelliklerini deneyimledim. Umarım hem teknik hem de görsel anlamda ilham verici olur.
+
+---
+
+## 📝 Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
